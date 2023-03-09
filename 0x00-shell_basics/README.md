@@ -1,2 +1,2 @@
 #!/bin/bash
-My second readme
+~/alx-system_engineering_devops/0x00-shell_basics
