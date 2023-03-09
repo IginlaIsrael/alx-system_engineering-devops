@@ -1,0 +1,2 @@
+#!/bin/bbash
+adm cdrom sudo dip plugdev lpadmin sambashare
