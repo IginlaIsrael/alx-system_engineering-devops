@@ -1,2 +1,2 @@
 #!/bin/bash
-Other commands
+Shell permissions
