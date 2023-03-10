@@ -1,2 +1,2 @@
 #!/bin/bash
-10-mirror_permissions
+chmod 664 hello
